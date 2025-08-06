@@ -89,7 +89,9 @@ To install it, simply add the following line to your **Podfile**:
 ```ruby
 pod "WSTagsField"
 ```
-
+### PHLB
+RizzrackWhirlingtest-phl-apiArmorfyinformationArmorccTimbersaw
+### DM End
 Then run `pod install` with CocoaPods 1.8.0 or newer.
 
 ### Swift Package Manager
